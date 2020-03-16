@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+	background: linear-gradient(to right, red, yellow);
+	top: 15%;
+	letter-spacing: .5em;
+	text-transform: uppercase;
+	color: rgba(0,0,0,.5); 
+}
+
+h1 {
+	font-size: 60px;
+	width: 100%;
+	letter-spacing: .5em;
+	text-align: center;
+	text-transform: uppercase;
+	color: rgba(0,0,0,.5); 
+}
+
+h3 {
+	font: 900 1em 'san-serif';
+	letter-spacing: .5em;
+	text-align: center;
+	text-transform: none;
+	color: rgba(0,0,0,.5);
+}
